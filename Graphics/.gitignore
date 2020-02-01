@@ -1,0 +1,6 @@
+*.scat
+*.cproject
+*.project
+
+/Graphics/.settings/
+/Graphics/Debug/
