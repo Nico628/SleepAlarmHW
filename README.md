@@ -3,8 +3,7 @@ Hardware components of SleepApp
 
 Using different hardwares, we created an alarm which can also provide local time, weather, news, google calendar information as well as sending text.
 
-I was responsible for the integration of GPS chip, touch screen chip, biometric sensor and UI screen design.
-
+I was responsible for the integration of GPS chip, touch screen chip, biometric sensor, UI screen design and integration of all components.
 
 Tools/Tech Used: C, Verilog, HPS serial ports, de1soc, wifi chip, GPS chip, touchscreen chip, biometric sensor, django database, google calendar API, Twilio API, raspberry pi, Scrum
 
